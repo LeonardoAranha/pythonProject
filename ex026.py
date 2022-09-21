@@ -1,0 +1,5 @@
+algo = input('digite qualquer coisa: ').strip()
+algo = algo.lower()
+print('a letra A aparece {} vez(es)'.format(algo.count('a')))
+print('ela parece pela primeira vez na posição {}'.format(algo.find('a')+1))
+print('e pela ultima vez na {}'.format())
