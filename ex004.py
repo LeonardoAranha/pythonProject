@@ -1,0 +1,7 @@
+al = input('digite algo: ')
+print('tipo primitivo:', type(al))
+print('tem letra ou numero?', al.isalnum())
+print('são apenas letras?', al.isalpha())
+print('são apenas numeros?', al.isnumeric())
+print('são apenas letras minusculas?', al.islower())
+print('são numeros decimais?', al.isdecimal())

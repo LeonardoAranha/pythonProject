@@ -1,0 +1,5 @@
+d = input('dia =')
+m = input('mes =')
+a = input('ano =')
+print('Você nasceu no dia', d, 'do mes', m, 'do ano', a)
+print(f'Você nasceu no dia {d} do mes {m} do ano {a}')
