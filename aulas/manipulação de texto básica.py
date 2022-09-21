@@ -27,11 +27,11 @@ print(frase.lower()) #Torna tudo minúsculo
 print(frase.capitalize()) #Tudo exceto a primeira letra em minúscula
 print(frase.title()) #Todas palavras começarão em maiúscula
 frase2 = '   Aprenda Python  '
-print(frase.strip()) #strip remove os espaços iniciais e os do final
-print(frase.rstrip()) #r é de right, então strip vai agir só no final (lado direito)
-print(frase.lstrip()) #l é de left, então vai remover só os do começo (lado esquerdo)
+print(frase2.strip()) #strip remove os espaços iniciais e os do final
+print(frase2.rstrip()) #r é de right, então strip vai agir só no final (lado direito)
+print(frase2.lstrip()) #l é de left, então vai remover só os do começo (lado esquerdo)
 
 #Divisão
-print(frase.split()) #Vai dividir a 'frase' usando os espaços como medida
-print('-'.join(frase)) #vai juntar usando o '-' pra separar as letras
-print('-'.join(frase.split())) #vai juntar usando o '-' pra separar as palavras
+print(frase2.split()) #Vai dividir a 'frase' usando os espaços como medida
+print('-'.join(frase2)) #vai juntar usando o '-' pra separar as letras
+print('-'.join(frase2.split())) #vai juntar usando o '-' pra separar as palavras

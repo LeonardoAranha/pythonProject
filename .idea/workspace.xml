@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="" />
+    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="troquei o nome do arquivo pratica1 pra taxas">
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/manipulação de texto básica.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/manipulação de texto básica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxas de parcelamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/taxas de parcelamento.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +26,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/pratica 1.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
@@ -46,6 +51,7 @@
       <recent name="C:\Users\aranh\PycharmProjects\pythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aranh\PycharmProjects\pythonProject\aulas" />
       <recent name="C:\Users\aranh\PycharmProjects\ar condicionado" />
     </key>
   </component>
@@ -58,6 +64,21 @@
       <option name="presentableId" value="Default" />
       <updated>1661432040543</updated>
     </task>
+    <task id="LOCAL-00001" summary="troquei o nome do arquivo">
+      <created>1663780592781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663780592781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="troquei o nome do arquivo pratica1 pra taxas">
+      <created>1663780672495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663780672495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="troquei o nome do arquivo" />
+    <MESSAGE value="troquei o nome do arquivo pratica1 pra taxas" />
+    <option name="LAST_COMMIT_MESSAGE" value="troquei o nome do arquivo pratica1 pra taxas" />
   </component>
 </project>
