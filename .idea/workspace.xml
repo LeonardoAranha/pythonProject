@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="conclusão do ex026.py, correção da manipulação de texto e realocação  de taxas de parcelamento.py" />
+    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="arquivo de teste removido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +29,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/aranh/PycharmProjects/CursoemVideo",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aranh/PycharmProjects/CursoemVideo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aranh\PycharmProjects\pythonProject" />
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663784397635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arquivo de teste removido">
+      <created>1664284382311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664284382311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +104,7 @@
     <MESSAGE value="troquei o nome do arquivo" />
     <MESSAGE value="troquei o nome do arquivo pratica1 pra taxas" />
     <MESSAGE value="conclusão do ex026.py, correção da manipulação de texto e realocação  de taxas de parcelamento.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="conclusão do ex026.py, correção da manipulação de texto e realocação  de taxas de parcelamento.py" />
+    <MESSAGE value="arquivo de teste removido" />
+    <option name="LAST_COMMIT_MESSAGE" value="arquivo de teste removido" />
   </component>
 </project>
