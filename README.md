@@ -1,1 +1,1 @@
-Exercícios feitos com base de Python Mundo 1 no Curso em Video 
+Exercícios feitos com base no curso de Python do Curso em Video
