@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="concluí a aula 10 e os exercícios 028, 029, 030 e 031">
-      <change afterPath="$PROJECT_DIR$/aulas/aula 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex037.py" afterDir="false" />
+    <list default="true" id="b730cea1-aea5-4ea7-8d94-dde9063b04a9" name="Changes" comment="conclusão do Mundo 1 na aula11.py e inicio do Mundo 2 na aula 12.py&#10;melhoria no ex028.py e conclusão do ex032.py ao ex035.py">
+      <change afterPath="$PROJECT_DIR$/exercicios/barata (ex 043).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex043.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/038.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex038.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666377330537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="conclusão do Mundo 1 na aula11.py e inicio do Mundo 2 na aula 12.py&#10;melhoria no ex028.py e conclusão do ex032.py ao ex035.py">
+      <created>1666394416017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666394416017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +138,7 @@
     <MESSAGE value="arquivo de teste removido" />
     <MESSAGE value="organizando os exercicios em 1 pasta própria e reescrevendo o 'README'" />
     <MESSAGE value="concluí a aula 10 e os exercícios 028, 029, 030 e 031" />
-    <option name="LAST_COMMIT_MESSAGE" value="concluí a aula 10 e os exercícios 028, 029, 030 e 031" />
+    <MESSAGE value="conclusão do Mundo 1 na aula11.py e inicio do Mundo 2 na aula 12.py&#10;melhoria no ex028.py e conclusão do ex032.py ao ex035.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="conclusão do Mundo 1 na aula11.py e inicio do Mundo 2 na aula 12.py&#10;melhoria no ex028.py e conclusão do ex032.py ao ex035.py" />
   </component>
 </project>
